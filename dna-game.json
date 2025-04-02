@@ -1,0 +1,25 @@
+{
+    "numPairs": 21,
+    "helixRadius": 7.5,
+    "helixHeight": 38,
+    "backboneWidth": 0.6,
+    "twists": 1,
+    "whitelistedPairs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "gameTime": 30,
+    "blinkCount": 10,
+    "blinkInterval": 500,
+    "targetPairCount": 3,
+    "maxSelections": 3,
+    "maxAttempts": 3,
+    "winScreenTimer": 11000,
+    "defaultCameraPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 40
+    },
+    "rotationSpeed": 0.001,
+    "spin": true,
+    "spinSpeed": 0.01,
+    "winTimeout": 3000,
+    "lostTimeout": 3000
+  }
