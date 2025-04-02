@@ -1,10 +1,10 @@
 {
-    "numPairs": 15,
+    "numPairs": 21,
     "helixRadius": 7.5,
     "helixHeight": 38,
     "backboneWidth": 0.6,
     "twists": 1,
-    "whitelistedPairs": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "whitelistedPairs": [0, 1, 2, 3],
     "gameTime": 30,
     "blinkCount": 10,
     "blinkInterval": 500,
